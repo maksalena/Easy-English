@@ -1,2 +1,2 @@
 # Easy-English
-The website to lear English tenses. 
+Try this web site, it will help you to understand English tenses. Choose the tense and tap on interesting example.
